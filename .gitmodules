@@ -1,0 +1,3 @@
+[submodule "DipoleRadiators.jl"]
+	path = DipoleRadiators.jl
+	url = git@github.com:aluque/DipoleRadiators.jl.git
